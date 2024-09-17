@@ -1,0 +1,12 @@
+﻿  MatrixCalculator.cpp
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(30,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(31,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(43,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(44,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(56,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(57,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(58,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(59,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(79,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MatrixCalculator\MatrixCalculator\MatrixCalculator.cpp(80,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MatrixCalculator.vcxproj -> D:\MatrixCalculator\x64\Debug\MatrixCalculator.exe
